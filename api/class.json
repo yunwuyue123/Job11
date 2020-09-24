@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": "1",
+      "major": "网络工程",
+      "sno": "1001",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "2",
+      "major": "网络工程",
+      "sno": "1002",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "3",
+      "major": "网络工程",
+      "sno": "1003",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "4",
+      "major": "物联网工程",
+      "sno": "1004",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "5",
+      "major": "物联网工程",
+      "sno": "1005",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "6",
+      "major": "物联网工程",
+      "sno": "1006",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "7",
+      "major": "计算机科学与技术",
+      "sno": "1007",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "8",
+      "major": "计算机科学与技术",
+      "sno": "1008",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "9",
+      "major": "软件工程",
+      "sno": "1009",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    },
+    {
+      "id": "10",
+      "major": "软件工程",
+      "sno": "1010",
+      "period": "2017",
+      "date": "2017-09-01",
+      "num": "48",
+      "classTeacher":"张三",
+      "coach": "李四"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": "1",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "2",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "3",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "4",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "5",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "6",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "7",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    },
+    {
+      "id": "8",
+      "firmName": "山东大通科技有限公司",
+      "headCity": "济南",
+      "sshy": "通信行业",
+      "recruit": "张三",
+      "phone": "15303652139",
+      "teamWork":"合作中",
+      "station": "Java开发"
+    }
+  ]
+}
